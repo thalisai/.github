@@ -31,7 +31,7 @@ Key features of the Thalis AI stack include:
 
 ## Comparison
 
-The Thalis AI stack is a collection of open-source tools that are distributed together, with everything you need to get
+The Thalis AI stack is a collection of open-source tools that are distributed together with everything you need to get
 started and build your own interactive original characters.
 
 Compared to other platforms and the individual tools, the Thalis AI stack offers more ways to interact with your
