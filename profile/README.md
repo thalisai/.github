@@ -43,7 +43,7 @@ characters in ways that are not possible with other platforms.
 | Self-hosted                | Yes       | No                        | Yes     | Yes     | Yes        |
 | Privacy & data control     | Yes       | No                        | Yes     | Yes     | Yes        |
 | Completely open-source     | Yes       | No                        | Yes     | Yes     | Yes        |
-| Runs on most common GPUs   | Yes       | No                        | Yes     | Yes     | Yes        |
+| Runs on desktop GPUs       | Yes       | No                        | Yes     | Yes     | Yes        |
 | Text chat                  | Yes       | Yes                       | No (1)  | Yes (2) | Yes        |
 | Audio generation           | Yes       | Yes                       | Yes (5) | No      | Yes        |
 | Image generation           | Yes       | Yes                       | Yes     | No      | Yes        |
