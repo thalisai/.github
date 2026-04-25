@@ -8,7 +8,7 @@ Original-character LoRA models and the tools that shape them.
 
 The work lives at the intersection of classical fantasy illustration and modern generative models: original characters with weight and presence, built in worlds of green stone and radium light.
 
-All models are trained from original datasets. No real people. No scraped IP.
+All models are trained from original datasets. No likenesses of real people. No scraped IP.
 
 ## Our tooling
 
@@ -38,7 +38,7 @@ Our LoRAs are trained on a fork of [AI-Toolkit](https://github.com/ostris/ai-too
 
 - **Model catalog**: [thalis.dev](https://thalis.dev) — 168+ concepts, 294+ released versions
 - **Civitai**: [thalisai](https://civitai.com/user/thalisai) — public LoRA releases with showcase galleries
-- **DeviantArt**: [thalis-ai](https://www.deviantart.com/thalis-ai)
+- **DeviantArt**: [thalisai](https://www.deviantart.com/thalisai)
 - **Bluesky**: [@thalis-ai.bsky.social](https://bsky.app/profile/thalis-ai.bsky.social)
 
 ## Open source
