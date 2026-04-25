@@ -8,7 +8,7 @@ Original-character LoRA models and the tools that shape them.
 
 The work lives at the intersection of classical fantasy illustration and modern generative models: original characters with weight and presence, built in worlds of green stone and radium light.
 
-All models are trained from original datasets. No real people. No scraped IP.
+All models are trained from original datasets. No likenesses of real people. No scraped IP.
 
 ## Our tooling
 
