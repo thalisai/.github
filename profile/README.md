@@ -38,7 +38,7 @@ Our LoRAs are trained on a fork of [AI-Toolkit](https://github.com/ostris/ai-too
 
 - **Model catalog**: [thalis.dev](https://thalis.dev) — 168+ concepts, 294+ released versions
 - **Civitai**: [thalisai](https://civitai.com/user/thalisai) — public LoRA releases with showcase galleries
-- **DeviantArt**: [thalis-ai](https://www.deviantart.com/thalis-ai)
+- **DeviantArt**: [thalisai](https://www.deviantart.com/thalisai)
 - **Bluesky**: [@thalis-ai.bsky.social](https://bsky.app/profile/thalis-ai.bsky.social)
 
 ## Open source
